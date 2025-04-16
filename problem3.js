@@ -10,6 +10,5 @@ let n = 1e11;
 let result = computeG_optimized(n);
 console.log(formatScientific(result));
 
-
-
+//neha
 // Your code it"s correct
