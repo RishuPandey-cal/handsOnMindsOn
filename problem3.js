@@ -9,3 +9,7 @@ function formatScientific(num) {
 let n = 1e11;
 let result = computeG_optimized(n);
 console.log(formatScientific(result));
+
+
+
+// Your code it"s correct
