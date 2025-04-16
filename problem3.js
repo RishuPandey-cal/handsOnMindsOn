@@ -6,8 +6,9 @@ function formatScientific(num) {
     return num.toExponential(10).replace("e", "e");
 }
 
-let n = 1e11;
-let result = computeG_optimized(n);
+
+let b = 1e11;
+let result = computeG_optimized(b);
 console.log(formatScientific(result));
 
 //neha
