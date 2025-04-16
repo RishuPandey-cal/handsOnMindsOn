@@ -10,6 +10,5 @@ function formatScientific(num) {
 let b = 1e11;
 let result = computeG_optimized(b);
 console.log(formatScientific(result));
-
-//neha
-// Your code it"s correct
+//
+//jhjgv
